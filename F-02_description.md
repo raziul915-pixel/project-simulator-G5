@@ -1,3 +1,4 @@
 # F-02: IoT Sensor Registration
-- Scope: Smoke and Heat sensor documentation.
-- Assigned to: (Friend's Name)
+- This module handles the registration of Smoke and Heat sensors.
+- It provides real-time data for the monitoring dashboard.
+- Completed by: Siam
