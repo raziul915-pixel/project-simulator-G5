@@ -1,2 +1,3 @@
-# AFMS - User Authentication & Dashboard
-This module documents the secure login for Forest Officials and the monitoring UI.
+# F-01: User Authentication & Dashboard
+- Scope: Secure login for officials and admin monitoring panel.
+- Assigned to: Rahit
