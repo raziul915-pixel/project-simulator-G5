@@ -17,3 +17,6 @@ The Admin Dashboard provides a comprehensive overview of system health and centr
 This feature allows authorized users to register and manage IoT sensors deployed in forest areas. It enables continuous real-time monitoring of sensor data (such as temperature, smoke, air quality, or motion), displays live readings on the dashboard, and triggers alerts when predefined thresholds are exceeded to support early detection and rapid response.
 **Status: Implemented**
 
+## T-04:Implement Forest Zone Management Page 
+The Forest Zone management feature allows authorized users to create, view, update, and organize forest zones by defining their locations, categories, and assigned monitoring devices, ensuring efficient supervision and protection of forest areas.
+**Status Implemented**
