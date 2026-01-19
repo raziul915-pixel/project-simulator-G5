@@ -1,3 +1,4 @@
+
 "# Implemented Features" 
 ## T-14: Implement User Login Page
 This task involves creating a login form component with email and password fields, including validation and error handling.
@@ -10,4 +11,4 @@ This feature allows authorized users to register and manage IoT sensors deployed
 "## T-03: GPS-based forest boundary mapping"
 "GPS-based forest boundary mapping accurately defines and visualizes forest boundaries using GPS data to support effective monitoring, protection, and management." 
 "**Status: Implemented**" 
-"" 
+
